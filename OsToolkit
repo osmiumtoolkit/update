@@ -1,0 +1,10 @@
+1.2.0
+8-Feb-2019
+<ENG>
+ - Tower of disable: disable not even-used apps
+ - Real-time CPU frequency, battery, thermal sensor data
+ - Custom launcher icon background color: needs substratum
+<CN>
+ - 镇魂塔：将不常用却在后台搞事的应用，镇压!
+ - 实时处理器频率，电池电量，温度传感器数值
+ - 自定义启动器图标背景颜色：依靠substratum

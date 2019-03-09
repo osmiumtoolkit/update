@@ -1,3 +1,7 @@
- - Tower of disable: disable not even-used apps
- - Real-time CPU frequency, battery, thermal sensor data
- - Custom launcher icon background color: needs substratum
+ - Real-time CPU Usage
+ - Real-time voltage and current
+ - Show and hide system app
+ - Reboot to 9008
+ - Shortcut of disable all and Tower of Disable (SDK25+)
+ - Add icon to shortcut
+ - PixelCat cpufreq option
